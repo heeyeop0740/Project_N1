@@ -3,12 +3,10 @@ package com.example.demo.model;
 import lombok.Data;
 
 @Data
-public class Member {
+public class Admin {
 	
-	private int id;
-	
-	private String name;
+	private String id;
 	
 	private String pwd;
-	
+
 }
